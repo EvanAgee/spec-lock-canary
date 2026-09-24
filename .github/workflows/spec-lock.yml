@@ -11,4 +11,5 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - run: sleep 61
       - uses: EvanAgee/spec-lock@b81bbac85b4b85a48f208160bfb2456c5e443efd
