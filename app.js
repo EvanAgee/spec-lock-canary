@@ -1,1 +1,1 @@
-export const greeting = 'hello'
+export const forced = 'mufq27tt'
