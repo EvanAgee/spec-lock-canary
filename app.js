@@ -1,1 +1,1 @@
-export const walk = 'mufsvkyu-0'
+export const forced = 'mufszxbg'
