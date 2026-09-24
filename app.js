@@ -1,1 +1,1 @@
-export const walk = 'mufqnvky'
+export const walk = 'mufqq867'
